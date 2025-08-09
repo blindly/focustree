@@ -1,0 +1,27 @@
+{
+  "name": "Focus Tree",
+  "short_name": "Focus Tree",
+  "description": "Task manager, action tracker, habit builder",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#696969",
+  "orientation": "portrait-primary",
+  "scope": "./",
+  "icons": [
+    {
+      "src": "favicon.ico",
+      "sizes": "50x50",
+      "type": "image/x-icon",
+      "purpose": "any"
+    },
+    {
+      "src": "assets/FocusTree.png",
+      "sizes": "350x350",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ],
+  "categories": ["productivity", "utilities"],
+  "lang": "en"
+}
